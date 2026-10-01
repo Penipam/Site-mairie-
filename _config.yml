@@ -1,0 +1,4 @@
+# GitHub Pages : ne pas publier les notes de travail
+exclude:
+  - CLAUDE.md
+  - README.md
